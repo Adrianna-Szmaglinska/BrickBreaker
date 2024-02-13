@@ -38,7 +38,7 @@ public class GamePlay extends JPanel implements KeyListener, ActionListener {
         Timer.start();
 
         // Load the background image
-        ImageIcon backgroundIcon = new ImageIcon("src/space-background.png"); // Replace with your image file name
+        ImageIcon backgroundIcon = new ImageIcon("lib/space-background.png"); // Replace with your image file name
         background = backgroundIcon.getImage();
     }
     
