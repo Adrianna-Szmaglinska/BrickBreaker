@@ -1,18 +1,22 @@
-## Getting Started
+## Brick Breaker Claasic Game (in Java)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A project to recreate a famous brick breaker game using only Java.
+
+The purpose of this project is to learn 2D development, and is part of a wider push to learn how 2D gaming works.
+
+Very helpful to use Java in such a creative manner.
 
 ## Folder Structure
 
 The workspace contains two folders by default, where:
 
 - `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- `lib`: the folder to maintain dependencies such as images
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Sources/Inspiration
 
-## Dependency Management
+- GeeksForGeeks YouTube tutorial [here](https://www.youtube.com/watch?v=KED9ZTO4mhg).
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- GeeksForGeeks YouTube tutorial source code - credits [@ChinmayMunje](https://github.com/ChinmayMunje/Brick-Breaker-Game) [here](https://github.com/ChinmayMunje/Brick-Breaker-Game)
