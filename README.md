@@ -19,4 +19,4 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 
 - GeeksForGeeks YouTube tutorial [here](https://www.youtube.com/watch?v=KED9ZTO4mhg).
 
-- GeeksForGeeks YouTube tutorial source code - credits [@ChinmayMunje](https://github.com/ChinmayMunje/Brick-Breaker-Game) [here](https://github.com/ChinmayMunje/Brick-Breaker-Game)
+- GeeksForGeeks YouTube tutorial source code - credits [@ChinmayMunje](https://github.com/ChinmayMunje/Brick-Breaker-Game) 
