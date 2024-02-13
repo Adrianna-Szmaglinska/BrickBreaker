@@ -1,4 +1,4 @@
-## Brick Breaker Claasic Game (in Java)
+## Brick Breaker Classic Game (in Java)
 
 A project to recreate a famous brick breaker game using only Java.
 
